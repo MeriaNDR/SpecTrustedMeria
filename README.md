@@ -86,3 +86,4 @@ Welcome to this repository! Here, you'll find a curated list of the most useful 
 - Use Case: Live performances, digital art installations, and multimedia experiences.
 
 ---
+#AI #CreativeAI #MachineLearning #GenerativeArt #AIArt #ImageGeneration #MusicAI #VideoAI #InteractiveArt #DeepLearning #StableDiffusion #DALLE #Artbreeder #RunwayML #GAN #AIProjects #DigitalCreativity #NeuralNetworks #AIStorytelling #AIAnimation #OpenSource
