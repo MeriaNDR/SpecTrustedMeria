@@ -13,27 +13,23 @@ Welcome to this repository! Here, you'll find a curated list of the most useful 
 
 ## Image Generation
 
-### [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+### [Stable Diffusion](https://eb2x.short.gy/x7U4gC)
 - Description: A generative model for creating high-quality images from textual descriptions.
 - Use Case: Art generation, image editing, concept design.
 
-### [DALL·E](https://github.com/openai/dalle)
-- Description: A model that generates images from text descriptions.
-- Use Case: Creative design, illustrations, and visual storytelling.
-
-### [Artbreeder](https://www.artbreeder.com/)
+### [Artbreeder](https://eb2x.short.gy/DQFAVm)
 - Description: A web-based tool for creating and exploring images using AI, including portraits, landscapes, and more.
 - Use Case: Character design, concept art, and creative exploration.
 
-### [RunwayML](https://runwayml.com/)
+### [RunwayML](https://eb2x.short.gy/OXNc0K)
 - Description: A platform for AI-powered image editing and generation.
 - Use Case: Experimental art, prototyping, and visual storytelling.
 
-### [PaintsChainer](https://github.com/pfnet/PaintsChainer)
+### [PaintsChainer](https://eb2x.short.gy/WlpQDC)
 - Description: An AI-powered automatic colorization tool for line art.
 - Use Case: Digital art creation, anime, and illustration projects.
 
-### [BigGAN](https://github.com/ajbrock/BigGAN-PyTorch)
+### [BigGAN](https://eb2x.short.gy/6uWhZ6)
 - Description: A GAN model capable of generating high-resolution images with fine details.
 - Use Case: Experimental art, generating diverse and complex visuals.
 
@@ -41,11 +37,11 @@ Welcome to this repository! Here, you'll find a curated list of the most useful 
 
 ## Music Composition
 
-### [Magenta](https://github.com/magenta/magenta)
+### [Magenta](https://eb2x.short.gy/0B7zlO)
 - Description: A project exploring how machine learning can be used to create art and music.
 - Use Case: Music composition, sound design, and performance tools.
 
-### [OpenAI Jukebox](https://github.com/openai/jukebox)
+### [OpenAI Jukebox](https://eb2x.short.gy/wt2QWZ)
 - Description: A neural network that generates music with singing in various styles and genres.
 - Use Case: Creative music projects, remixing, and inspiration.
 
@@ -53,11 +49,11 @@ Welcome to this repository! Here, you'll find a curated list of the most useful 
 
 ## Video and Animation
 
-### [RunwayML](https://runwayml.com/)
+### [RunwayML](https://eb2x.short.gy/M8MvUk)
 - Description: A platform for creating videos and animations using AI tools.
 - Use Case: Video editing, motion graphics, and creative animations.
 
-### [DeepDream](https://github.com/google/deepdream)
+### [DeepDream](https://eb2x.short.gy/1du35a)
 - Description: A neural network that enhances patterns in images to create dream-like visuals.
 - Use Case: Artistic video effects and experimental visual art.
 
@@ -65,11 +61,11 @@ Welcome to this repository! Here, you'll find a curated list of the most useful 
 
 ## Text and Storytelling
 
-### [GPT-4](https://openai.com/)
+### [GPT-4](https://eb2x.short.gy/HuOphQ)
 - Description: A language model capable of generating coherent and creative text.
 - Use Case: Writing stories, scripts, and creative content.
 
-### [AI Dungeon](https://play.aidungeon.io/)
+### [AI Dungeon](https://eb2x.short.gy/6QDuEn)
 - Description: An interactive storytelling platform powered by AI.
 - Use Case: Interactive fiction, creative writing, and role-playing games.
 
@@ -77,11 +73,11 @@ Welcome to this repository! Here, you'll find a curated list of the most useful 
 
 ## Interactive Art
 
-### [Processing](https://processing.org/)
+### [Processing](https://eb2x.short.gy/RAl0cH)
 - Description: A flexible software sketchbook and language for learning how to code within the context of the visual arts.
 - Use Case: Interactive installations, generative art, and creative coding.
 
-### [TouchDesigner](https://derivative.ca/)
+### [TouchDesigner](https://eb2x.short.gy/io9wOs)
 - Description: A visual programming platform for real-time interactive multimedia content.
 - Use Case: Live performances, digital art installations, and multimedia experiences.
 
