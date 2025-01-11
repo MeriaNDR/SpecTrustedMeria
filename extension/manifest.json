@@ -3,9 +3,7 @@
     "name": "CreativeList",
     "version": "1.0",
     "description": "Shows a curated list of the most useful and popular projects links for creative purposes",
-    "permissions": [
-      "activeTab"
-    ],
+    "permissions": [],
     "action": {
       "default_popup": "popup.html",
       "default_icon": {
